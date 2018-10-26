@@ -1,0 +1,60 @@
+body{
+	font-size: 25px;
+}
+h1{
+	color: black;
+}
+h2{
+	color: black;
+}
+h3{
+	color: green;
+}
+
+h5{
+	color: white;
+	background-color: black;
+	text-align: center;
+	text-shadow: 1px 1px 5px green;
+	font-size: 50px
+}
+
+p{
+	color: white;
+	text-align: center;
+	text-shadow: 1px 1px 5px green;
+	font-size: 35px
+}
+
+#footer{
+	color: blue;
+	font-size: 15px;
+}
+
+#banner{
+	text-align: center;
+	background-image: url("images/madrid2.jpg");
+	background-size: cover;
+	padding: 150px;
+	text-shadow: 1px 1px 5px white;
+}
+
+#banner h1{
+	color: black;
+	font-size: 50px;
+
+}
+
+.feature{
+	padding: 50px;
+	font-weight: lighter;
+	text-align: center;
+	
+}
+
+
+ .carousel-inner > .carousel-item > img,
+ .carousel-inner > .carousel-item > a > img {
+     display: block;
+     
+ }
